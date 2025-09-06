@@ -1,1 +1,2 @@
-
+TIMEKEEPING APP
+This is an app I am developing which I hope will help my hockey club keep track of the working hours of coaches. It is usually an incredible pain to go back throughout the month and calculate how many hours you have worked, when and were you worked and how much you should be paid (different types of coaching pays different amounts p/h). Another issue is finding out when and where I am supposed to be for my coaching sessions. This app I hope takes away the need for numerous spreadsheets and allows coaches and clubs to have a streamlined platform where training sessions can be scheduled and hours can be tracked.
